@@ -35,7 +35,7 @@ Plants need the right amount of water for healthy growth. This project uses a so
 
 ## Circuit Diagram
 
-![Smart Soil Irrigation Circuit](circuit-diagram.png)
+![Smart Soil Irrigation Circuit](Smart Soil Irrigation Circuit Diagram.png)
 
 ## Arduino Source Code
 
