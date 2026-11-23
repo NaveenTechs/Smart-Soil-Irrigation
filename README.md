@@ -33,9 +33,6 @@ Plants need the right amount of water for healthy growth. This project uses a so
 | Sensor VCC | 5V |
 | Sensor GND | GND |
 
-## Circuit Diagram
-
-![Smart Soil Irrigation Circuit](Smart-Soil-Irrigation-Circuit-Diagram.png)
 
 ## Arduino Source Code
 
